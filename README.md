@@ -1,4 +1,4 @@
-biokaggle
+Biokaggle
 =========
 
 A first entry / test for entering Kaggle competition. 
